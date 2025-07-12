@@ -1,0 +1,7002 @@
+[
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_177",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_224",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_257",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_557",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_126",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_904",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_342",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_585",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_467",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_377",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_334",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_772",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_151",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_410",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_688",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_158",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_797",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_278",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_148",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_333",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_351",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_737",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_128",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_303",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_962",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_734",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_835",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_479",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_709",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_625",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_844",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_722",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_178",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_830",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_941",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_833",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_500",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_729",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_930",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_581",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_659",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_524",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_997",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_302",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_244",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_582",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_389",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_602",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_246",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_842",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_785",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_838",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_344",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_692",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_544",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_158",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_817",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_503",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_235",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_875",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_893",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_520",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_988",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_293",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_485",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_105",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_964",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_922",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_517",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_826",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_358",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_671",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_135",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_594",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_212",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_370",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_850",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_451",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_572",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_192",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_276",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_867",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_984",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_977",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_652",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_447",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_332",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_889",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_551",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_901",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_661",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_358",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_353",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_479",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_674",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_178",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_137",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_951",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_910",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_829",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_265",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_409",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_360",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_956",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_798",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_724",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_353",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_279",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_866",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_462",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_713",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_529",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_267",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_252",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_783",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_354",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_178",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_873",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_740",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_287",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_188",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_269",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_212",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_326",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_256",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_573",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_870",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_916",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_138",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_337",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_692",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_953",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_663",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_369",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_466",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_341",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_401",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_286",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_176",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_385",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_757",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_691",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_449",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_638",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_122",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_620",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_303",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_445",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_103",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_220",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_852",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_397",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_477",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_832",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_308",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_197",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_938",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_829",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_778",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_217",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_734",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_432",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_833",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_364",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_531",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_162",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_101",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_967",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_631",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_244",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_873",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_960",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_716",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_220",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_521",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_666",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_691",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_786",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_413",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_662",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_807",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_184",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_167",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_129",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_496",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_314",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_821",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_463",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_591",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_686",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_346",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_215",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_116",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_157",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_476",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_378",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_836",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_806",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_577",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_785",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_481",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_397",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_899",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_213",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_180",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_968",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_460",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_456",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_398",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_119",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_640",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_117",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_174",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_124",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_161",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_149",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_157",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_459",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_946",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_428",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_761",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_804",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_674",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_804",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_534",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_639",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_314",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_508",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_484",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_381",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_479",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_418",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_246",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_736",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_356",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_411",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_524",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_477",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_982",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_739",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_867",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_274",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_448",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_786",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_843",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_458",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_158",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_821",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_515",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_372",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_844",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_354",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_408",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_399",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_947",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_740",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_914",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_732",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_968",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_680",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_133",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_327",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_283",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_567",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_727",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_105",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_569",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_993",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_612",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_274",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_859",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_130",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_478",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_531",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_866",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_497",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_199",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_775",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_501",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_489",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_242",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_308",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_869",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_791",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_823",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_822",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_546",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_263",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_143",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_576",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_704",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_409",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_884",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_505",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_999",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_553",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_444",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_661",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_397",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_584",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_378",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_445",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_686",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_557",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_289",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_506",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_602",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_715",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_884",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_642",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_720",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_514",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_528",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_546",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_152",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_136",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_800",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_120",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_992",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_136",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_468",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_266",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_259",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_218",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_277",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_911",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_291",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_161",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_288",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_592",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_740",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_678",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_773",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_697",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_470",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_897",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_785",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_231",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_757",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_796",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_447",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_334",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_825",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_330",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_242",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_926",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_660",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_950",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_333",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_914",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_753",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_986",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_347",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_992",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_145",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_519",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_611",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_312",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_589",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_908",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_955",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_445",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_719",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_709",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_587",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_429",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_441",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_182",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_707",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_199",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_261",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_358",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_165",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_735",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_463",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_583",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_985",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_983",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_803",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_569",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_948",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_678",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_435",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_663",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_178",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_121",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_379",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_789",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_421",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_505",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_542",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_428",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_690",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_464",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_467",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_104",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_184",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_816",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_176",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_500",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_998",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_153",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_541",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_783",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_122",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_777",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_834",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_534",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_746",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_133",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_385",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_376",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_353",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_539",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_212",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_407",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_590",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_728",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_756",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_541",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_605",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_600",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_458",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_478",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_672",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_810",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_399",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_606",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_812",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_834",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_980",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_431",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_418",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_504",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_687",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_393",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_662",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_535",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_706",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_614",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_332",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_717",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_967",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_156",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_648",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_320",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_832",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_908",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I was charged twice for my internet bill.",
+    "label": {
+      "title": "Internet issue",
+      "description": "I was charged twice for my internet bill.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_638",
+      "organisation": "CanalBox",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_586",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_849",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_264",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_956",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_770",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_922",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_437",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_987",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_572",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_304",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_426",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "call"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_402",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_523",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_625",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_109",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_305",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_441",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_428",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_335",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_312",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_907",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_690",
+      "organisation": "MTN",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_817",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_817",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "Why is my electricity bill so high this month?",
+    "label": {
+      "title": "Billing issue",
+      "description": "Why is my electricity bill so high this month?",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_483",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_824",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_466",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_492",
+      "organisation": "ALU Helpdesk",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_345",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_452",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_794",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_994",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_755",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_392",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_462",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_412",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_472",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_857",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_352",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "My neighborhood has no electricity since morning.",
+    "label": {
+      "title": "Power outage",
+      "description": "My neighborhood has no electricity since morning.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_961",
+      "organisation": "REG",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_129",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "There\u2019s a gas leak in my kitchen. Urgent!",
+    "label": {
+      "title": "Gas leak",
+      "description": "There\u2019s a gas leak in my kitchen. Urgent!",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_584",
+      "organisation": "ALU Helpdesk",
+      "tags": "emergency",
+      "source": "web"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_675",
+      "organisation": "CanalBox",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_574",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  },
+  {
+    "text": "My internet has been very slow for the past few days.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My internet has been very slow for the past few days.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_980",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_964",
+      "organisation": "REG",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "The power just went off and hasn\u2019t come back.",
+    "label": {
+      "title": "Power outage",
+      "description": "The power just went off and hasn\u2019t come back.",
+      "state": "open",
+      "priority": "critical",
+      "assignedTo": null,
+      "ownedBy": "user_929",
+      "organisation": "CanalBox",
+      "tags": "emergency",
+      "source": "call"
+    }
+  },
+  {
+    "text": "My WiFi keeps disconnecting every hour.",
+    "label": {
+      "title": "Internet issue",
+      "description": "My WiFi keeps disconnecting every hour.",
+      "state": "open",
+      "priority": "low",
+      "assignedTo": null,
+      "ownedBy": "user_656",
+      "organisation": "MTN",
+      "tags": "connectivity",
+      "source": "call"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "high",
+      "assignedTo": null,
+      "ownedBy": "user_709",
+      "organisation": "REG",
+      "tags": "billing",
+      "source": "email"
+    }
+  },
+  {
+    "text": "There is no signal in my area.",
+    "label": {
+      "title": "Customer issue",
+      "description": "There is no signal in my area.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_978",
+      "organisation": "ALU Helpdesk",
+      "tags": "connectivity",
+      "source": "web"
+    }
+  },
+  {
+    "text": "I paid the bill but my service is still disconnected.",
+    "label": {
+      "title": "Billing issue",
+      "description": "I paid the bill but my service is still disconnected.",
+      "state": "open",
+      "priority": "medium",
+      "assignedTo": null,
+      "ownedBy": "user_931",
+      "organisation": "MTN",
+      "tags": "billing",
+      "source": "web"
+    }
+  }
+]
