@@ -1,0 +1,25 @@
+version: "3.8"
+
+services:
+  sautidesk-model:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      # Mount the model directory for development (optional)
+      - ./notebooks/t5-ticket-output_final:/app/notebooks/t5-ticket-output_final:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+        reservations:
+          memory: 2G
