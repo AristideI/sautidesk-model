@@ -11,7 +11,7 @@ tokenizer: Optional[T5Tokenizer] = None
 
 
 def load_t5_model(
-    model_path: str = "notebooks/t5-ticket-output_final/checkpoint-45000",
+    model_path: str = "notebooks/models/t5-ticket-model",
 ) -> Tuple[T5ForConditionalGeneration, T5Tokenizer]:
     """
     Load T5 model and tokenizer from the specified path
